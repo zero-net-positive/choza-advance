@@ -1,4 +1,3 @@
-
 # Conscious Companies Advance
 *March 29-31, 2013*
 
@@ -188,27 +187,27 @@ Book report on "The Ownership of Enterprise," by Harry Hansmann
 - nice analysis of benefit and control
 - 4 classes of ownership of companies, defined by the patrons of the firm:
 	- Supplier-owned
-	- Consumer
-	- Employees
-	- Investors
+	- Customer-owned
+	- Employee-owned
+	- Investor-owned
 - case studies of businesses in different industries, where are types of companies most successful?
 - biggest indicator of success is whether cost of decision-making is low
-- when stakeholders have a bunch of different opinions, cost of decision making is so high that it'sv ery difficult to be successful. 
-- eg. law firms as partnerships are basically employee-owned. 
+- when stakeholders have a bunch of different opinions, cost of decision making is so high that it's very difficult to be successful. 
+- eg. law firms as partnerships are basically employee-owned, as most everyone does the same work. 
 - homogeneity of interests makes cost of decision making low
-- "Success" is defined as market dominance
+- "Success" for Hansmann is defined as market dominance
 	- comment: but efficiency != benefit or success!
 	- the book makes the point more that these are the business that are dominant in the marketplace - not a commentary on whether this is good or bad. 
 - Matching four kinds of ownership
 - Employee ownership: Works best when there's only one class of employee
 	- Cost of decision-making has to be low to be successful (Law firms work well)
-	- Age diversity has problems
+	- Age diversity has problems (older workers are more risk averse than younger workers, etc)
 	- Lumber firms work well, because everyone does all the jobs
 	- Homogeneity of interest
-- ESOPs (employee stock ownerhip plans): Fairly big government subsidy, benefit but not control
-- Employee-governance (German): Control but not benefit
+- ESOPs (employee stock ownerhip plans): Fairly big government subsidy, gives employees benefit but not control
+- Co-Determination (German): Control but not benefit - employees have seats on the board, but don't get financial benefits
 - Electricity: Mostly consumer-owned (in rural), rarely consumer owned in urban
-- Marketing Coop: Supplier Owned
+- Marketing Coop, like Oceanspray (cranberries) or Land O'Lakes (dairy): Supplier Owned
 - comment: supervotes are an example of control separated from financial benefit 
 - comment: a new potential category of control would be algorithmic - prediction markets, crowdsourcing, etc. 
 	- though in this case we have outsourced the data collection but not necessarily control?
@@ -224,7 +223,7 @@ Types of legal entities:
 	- you are *required*, as opposed to allowed, to consider these social and environmental factors. 
 - Benefit corporation
 	- may, but not required to, consider factors besides shareholder dollar value. 
-- low profit LLC
+- low-profit LLC (L3C)
 	- mostly designed as a hack for IRS rules to make it easier for foundations
 to make program-related investments in technically for-profit but
 mission-driven companies (often with a "primarily" charitable purpose). 
@@ -237,7 +236,7 @@ mission-driven companies (often with a "primarily" charitable purpose).
 	- have total flexibility to do what you want between partners of an LLC. 
 - C corps, S corps
 	- basically opposite of LLCs
-- hybrids (non-profit owns for-profit or vice-versa)
+- hybrids (non-profit owns for-profit, vice-versa, or linked through agreements)
 	- more overhead on legal and operational levels
 	- clear separation of responsibility/concerns
 	- eg. mozilla
@@ -367,7 +366,7 @@ Different approaches to financing, financing of experimental organizations
 - Family and Friends funding
 - SBA loans
 - Foundation grants / SRI
-- JOBS ACT / Crowdfunding for equity
+- JOBS ACT / Crowdfunding for equity (lots of startups lined up for this, like http://wefunder.org)
 - DPO: Direct Public Offering
 - Don't call it Capital.
 - It's easier to give things away before it's worth anything.
